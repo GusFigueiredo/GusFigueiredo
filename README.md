@@ -1,8 +1,6 @@
 # 👦🏻 Gustavo Bassoto Figueiredo
 ### 💻 Desenvolvedor Full-Stack
-
-Me chamo Gustavo Bassoto Figueiredo, tenho 17 anos, de São Paulo capital. Atualmente estou estudando na escola Fiap School com o curso Full-Stack. Alem disto, faço cursos aparte, principalmente no CursoEmVideo. Sou apaixonado pela tecnologia e suas possibilidades de criação de projetos, por isso, almejo seguir carreira na area de tecnologia.
-
+Me chamo Gustavo Bassoto Figueiredo, tenho 17 anos e sou de São Paulo, capital. Atualmente estou estudando na FIAP School no curso Full-Stack. Além disso, faço cursos à parte, principalmente no Curso em Vídeo. Sou apaixonado pela tecnologia e suas possibilidades de criação de projetos; por isso, almejo seguir carreira na área de tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
 
